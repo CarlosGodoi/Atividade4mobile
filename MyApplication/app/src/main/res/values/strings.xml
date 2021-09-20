@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Bem Vindo</string>
+    <string name="todos">TODOS</string>
+    <string name="post">POSTS</string>
+    <string name="album">ALBUNS</string>
+</resources>
